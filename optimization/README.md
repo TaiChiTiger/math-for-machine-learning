@@ -8,7 +8,7 @@
 - Powell糟糕缩放函数
 - Beale函数
 
-<kbd><img title="functions" src="https://github.com/TaiChiTiger/common-optimization-methods/blob/master/images/functions.jpg"></kbd><br/>
+<kbd><img title="functions" src="https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1/tree/main/optimization/images/functions.jpg"></kbd><br/>
 
 ## 优化方法
 零阶方法
@@ -25,4 +25,4 @@
 二阶方法
 - 牛顿法
 
-<kbd><img title="optimization" src="https://github.com/TaiChiTiger/common-optimization-methods/blob/master/images/optimization.jpg"></kbd><br/>
+<kbd><img title="optimization" src="https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1/tree/main/optimization/images/optimization.jpg"></kbd><br/>
