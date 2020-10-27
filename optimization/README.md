@@ -31,4 +31,4 @@
 
 
 ## 示例
-<kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-a-cost-function-based-perspective/blob/master/images/cost_function_perspective.gif"></kbd><br/>
+<kbd><img title="分类" src="https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1/tree/main/optimization/images/cost_function_perspective.gif"></kbd><br/>
