@@ -1,5 +1,5 @@
 
-# math-for-machine-learning---Machine-Learning-Insight-1
+# 机器学习的数学基础（Math for Machine Learning - Machine Learning Insight 1）
 
 ## [微积分（Calculus）](https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1/tree/main/calculus)
 
