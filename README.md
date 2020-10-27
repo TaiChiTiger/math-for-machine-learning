@@ -9,6 +9,7 @@
 ## [线性代数（Linear Algebra）](https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1/tree/main/linear-algebra)
 
 ## [优化（Optimization）](https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1/tree/main/optimization)
+优化函数及优化方法可视化：[APP](http://39.98.239.104:8503/)
 
 ## [概率（Probability）](https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1/tree/main/probability)
 概率分布可视化：
